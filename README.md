@@ -1,5 +1,5 @@
-AI File Info Process Page
-AI File Info Process Page allows users to upload files and obtain their file name,
+Archival File Lister Process Page
+AI Archival File Lister Process Page allows users to upload files and obtain their file name,
 tilte, format and file size using Python's built-in tools, and extract keywords using AI-enable tool-Gensim.
 This tool has been deployed for the Ministry of Government and Consumer Services. It is currently being hosted on 142.144.9.1:3000
 
