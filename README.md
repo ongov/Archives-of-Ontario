@@ -19,22 +19,11 @@ Supported File Format
 How to Run the App on Your Laptop
 All required libraries and software are downloaded and installed on a Red Hat Enterprise Linux Server (RHEL in short)
 
-Create a fileInfoGetter environment
+Create a Archival File Lister environment
 
-If your operating system is RHEL
-Run the following command in your terminal to clone the project from Gitlab repo:
-$ git clone https://gitlab.com/FarnazGoortani/gsic--ao.git
-
-If your operating system is NOT RHEL
-
-Option 1:
-Create a virtural machine, and then run the following command in your terminal to clone the project from Gitlab repo:
-$ git clone https://gitlab.com/FarnazGoortani/gsic--ao.git
-
-Option 2:
 Download and install all the required libraries and software by yourself.
 
-Activate the environment (skip if you are following option 2)
+Activate the environment
 Run the following command in your terminal
 $ source $HOME/fileInfoGetter/fileInfoGetterEnv/bin/activate
 Your terminal should now look like this:
@@ -111,7 +100,7 @@ infoGetter.py contains all the helper functions, and lastly Summarizer is an obj
 Whenever you want to make change to any of the three files, make sure you have a backup copy in case something goes wrong. This Gitlab site contains
 the latest uploaded source code, so download the source codes from here and then start making changes on the server.
 
-How to Upload New File to Gitlab
+How to Upload New Fil
 If you wrote your source code on your local environment/laptop, you can upload your files here: https://www.file.io/, you will get a link.
 Then go to the server and use the following command:
 $ wget https://file.io/example
