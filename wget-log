@@ -1,0 +1,16 @@
+--2019-03-04 11:55:07--  https://github.com/mozilla/DeepSpeech/releases/download/v0.1.1/deepspeech-0.1.1-models.tar.gz
+Resolving github.com (github.com)... 192.30.253.113, 192.30.253.112
+Connecting to github.com (github.com)|192.30.253.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github-production-release-asset-2e65be.s3.amazonaws.com/60273704/e42ae378-01ef-11e8-81fe-67abd8256530?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190304T165507Z&X-Amz-Expires=300&X-Amz-Signature=9254e85b5a608ce273459e55cb943853f5ccf06396653578a06a855d5f47c036&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Ddeepspeech-0.1.1-models.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2019-03-04 11:55:07--  https://github-production-release-asset-2e65be.s3.amazonaws.com/60273704/e42ae378-01ef-11e8-81fe-67abd8256530?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190304T165507Z&X-Amz-Expires=300&X-Amz-Signature=9254e85b5a608ce273459e55cb943853f5ccf06396653578a06a855d5f47c036&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Ddeepspeech-0.1.1-models.tar.gz&response-content-type=application%2Foctet-stream
+Resolving github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)... 52.216.166.35
+Connecting to github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.166.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1403866055 (1.3G) [application/octet-stream]
+Saving to: ‘STDOUT’
+
+
+
+
+Cannot write to ‘-’ (Input/output error).

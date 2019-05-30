@@ -1,0 +1,43 @@
+https://mgcs0.crm3.dynamics.com/main.aspx
+https://mgcs0.crm3.dynamics.com/main.aspx?forceClassic=1
+https://gsicdev.crm3.dynamics.com/main.aspx
+https://gsicqa.crm3.dynamics.com/main.aspx
+https://intra.sse.gov.on.ca/gsdc/OFB/RFM/SitePages/Home.aspx?RootFolder=%2Fgsdc%2FOFB%2FRFM%2FShared%20Documents%2FBA&FolderCTID=0x0120002D1215E3069DC34C9FC265258DE0F67D&View={BEC625B5-3374-4E57-959A-34B482015F2D}
+
+
+Options:
+Phase1: (Service Ontario)SO Intake ----> (via email)Ministry Manager
+|
+|(Amendment) to allow Min. to store the data in the database
+Phase2: SO Intake ----> MM ----> RCO
+
+
+
+Scope:
+Phase 1                                       Phase 2
+Intake form & Min. form                       Enable Min. form
+Batch file overnigsht
+Knowledge management
+Security roles (CC only)
+SO reports only
+Business Process 
+
+
+March 28 CRM Meeting Minute
+
+- the caller: information will be available to all ministries (security role is orgnization level)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

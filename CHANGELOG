@@ -1,0 +1,19 @@
+Feb 7th 2019:
+- Started Project
+
+Feb 22nd 2019:
+- Finished project and deployed to developer server
+- Basic tasks such as text extraction for pdf and word document are accomplished.
+
+Feb 28th 2019:
+- Modified GUI Interface
+
+Mar 6th 2019:
+- Implemented Object Recognition and Optical Character Recognition
+- Improved output result
+
+Mar 7th 2019:
+- Finished implementation of Objection Recognition and Optical Character Recognition
+
+Mar 12th 2019:
+- Added pdf2png2txt function which convert images in pdf format to png format and allow png2txt to execute on these files to extract plain text content.
